@@ -20,7 +20,7 @@ This project automates the verification of user tasks using Rest Assured and Tes
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/elaa0505/FuncodeAssignment.git]
+   git clone https://github.com/elaa0505/FuncodeAssignment.git
    cd FuncodeAssignment
 
 2. Install the dependencies:
